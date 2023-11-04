@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+Get weather forecast for any state in the world !
+
+
+Live view:
+
+![image](https://github.com/Zotq/classy-weather/assets/88341255/957f61d0-c9b0-4699-81d7-994e08512e39)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
