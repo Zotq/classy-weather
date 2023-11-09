@@ -1,5 +1,6 @@
 Get weather forecast for any state in the world !
 
+This project is made by the "old ways" React applications were created,that is before 2019.
 
 Live view: https://classy-weather-js.netlify.app/
 
